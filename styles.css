@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    background:#fdfdfddd;
+    
+}
+.container{
+    text-align: center;
+}
+h1{
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      
+}
+table{
+    margin: auto;
+}
+/* INPUT SCREEN TEXT BOX  */
+input {
+    margin-top: 13px;
+    font-size: 56px;
+    border: 5px solid tomato;
+    border-radius: 32px;
+    color: tomato;
+    height: 66px;
+    width: 794px;
+}
+button {
+    width: 104px;
+    font-size: 22px;
+    color: #3c1212;
+    border: 4px solid;
+    border-radius: 28px;
+    padding: 12px;
+    background: snow;
+    /* height: 90px; */
+    margin: 6px;
+}
+.calculator {
+    background-color: #46a9b1;
+    display: inline-block;
+    border: 3px solid;
+    border-radius: 47px;
+    padding: 20px;
+}
